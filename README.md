@@ -1,6 +1,6 @@
 # Create a web API with ASP.NET Core and MongoDB
 
-Link: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-2.2&tabs=visual-studio#add-a-controller
+Link: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-2.2&tabs=visual-studio
 
 By Pratik Khandelwal and Scott Addie
 
